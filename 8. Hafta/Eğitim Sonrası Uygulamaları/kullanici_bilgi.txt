@@ -1,0 +1,4 @@
+Kullanıcı: Defne Özbalcı Yaş: 19 Boy: 1.72 Kilo: 56.0 VKI: 18.93
+ Sonuç: Normal Kilolu
+Kullanıcı: Aysel Demir Yaş: 25 Boy: 1.68 Kilo: 58.0 VKI: 20.55
+ Sonuç: Normal Kilolu
